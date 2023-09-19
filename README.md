@@ -1,6 +1,6 @@
-## Hello, I'm a 👨‍💻 Web Developer 👋
+## Hello, I'm a 👨‍💻 Front-End Developer 👋
 
-I love to create 💡 innovative websites and web applications, and I'm passionate about staying up-to-date with the latest web technologies 🔍. My expertise includes HTML, CSS, JavaScript, and React ⚛️ framework. I also have knowledge in PHP, MySQL and Laravel. I constantly strive to adhere to web best practices, such as responsive design and accessibility 🌐.
+I love to create 💡 innovative websites and web applications, and I'm passionate about staying up-to-date with the latest web technologies 🔍. My expertise includes SASS, Tailwind CSS, TypeScript, and React ⚛️ framework. I constantly strive to adhere to web best practices, such as responsive design and accessibility 🌐.
 
 I have worked on numerous web projects, including showcase websites, blogs, e-commerce sites, and dynamic web applications 💼.
 
@@ -8,13 +8,10 @@ Currently seeking new challenges and opportunities 💪, I am available to work 
 
 ## Skills
 
--   HTML 🌐
--   CSS 🎨
+-   Tailwind CSS 🌐
+-   SASS 🎨
 -   JavaScript 💻
 -   React ⚛️
--   PHP 
--   MySQL
--   Laravel
 
 ## Contact
 
