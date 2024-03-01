@@ -1,14 +1,14 @@
 ## Hello, I'm a 👨‍💻 Web Developer 👋
 
-I love to create 💡 innovative websites and web applications, and I'm passionate about staying up-to-date with the latest web technologies 🔍. My expertise includes SASS, Tailwind CSS, TypeScript, and React ⚛️ framework. I constantly strive to adhere to web best practices, such as responsive design and accessibility 🌐.
+I love to create 💡 innovative websites and web applications, and I'm passionate about staying up-to-date with the latest web technologies 🔍. My expertise includes Tailwind CSS, TypeScript,React  and Next.js framework. I constantly strive to adhere to web best practices, such as responsive design and accessibility 🌐.
 
 Currently seeking new challenges and opportunities 💪, I am available to work in Montreal and surrounding areas in person or remotely anywhere in Canada 🌍.
 
 ## Skills
 
 -   Tailwind CSS 🌐
--   SASS 🎨
--   JavaScript 💻
+-   Next.js 🎨
+-   TypeScript 💻
 -   React ⚛️
 -   Node.js 💡
 
