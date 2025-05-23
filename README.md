@@ -1,17 +1,31 @@
-## Hello, I'm a 👨‍💻 Web Developer 👋
+# 👋 Salut, moi c’est Daouda !
 
-I love to create 💡 innovative websites and web applications, and I'm passionate about staying up-to-date with the latest web technologies 🔍. My expertise includes Tailwind CSS, TypeScript,React  and Next.js framework. I constantly strive to adhere to web best practices, such as responsive design and accessibility 🌐.
+🎯 Développeur web front-end passionné, spécialisé en **React.js** et **Next.js** avec une dose d'automatisation **N8N**.  
+Je conçois des interfaces modernes, performantes et accessibles, avec une attention particulière portée à l'expérience utilisateur.
+J'automatise également des processus de travail à l'aide de l'IA.
 
-Currently seeking new challenges and opportunities 💪, I am available to work in Montreal and surrounding areas in person or remotely anywhere in Canada 🌍.
+---
 
-## Skills
+## 🛠️ Technologies & outils
 
--   Tailwind CSS 🌐
--   Next.js 🎨
--   TypeScript 💻
--   React ⚛️
--   Node.js 💡
+- ⚛️ React.js, Next.js, Zustand
+- 💅 Tailwind CSS
+- 🌐 API REST
+- ⚙️ Git, GitHub, Vercel, Netlify, Docker (notions)
+- 🧪 Jest, Vitest
 
-## Contact
+---
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/daouda-camara-bf/).
+## 🔍 Ce que je cherche
+
+- 🌱 Continuer à apprendre et explorer la construction d'agent IA
+- 🤝 Collaborer avec d'autres développeurs
+- 💼 Opportunités freelance / remote / temps plein
+
+---
+
+## 📫 Me contacter
+
+- Portfolio : [ton-site.com](https://daocam-dev.vercel.app)
+- LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com/in/daouda-camara-bf)
+- Email : [tonemail@example.com](mailto:camara.daouda@outlook.fr)
