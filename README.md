@@ -18,7 +18,7 @@ J'automatise également des processus de travail à l'aide de l'IA.
 
 ## 🔍 Ce que je cherche
 
-- 🌱 Continuer à apprendre et explorer la construction d'agent IA
+- 🌱 Continuer à apprendre et explorer les opportunités que nous offre l'IA
 - 🤝 Collaborer avec d'autres développeurs
 - 💼 Opportunités freelance / remote / temps plein
 
