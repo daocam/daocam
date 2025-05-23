@@ -27,5 +27,5 @@ J'automatise également des processus de travail à l'aide de l'IA.
 ## 📫 Me contacter
 
 - Portfolio : [daocam-dev.vercel.app](https://daocam-dev.vercel.app)
-- LinkedIn : [linkedin.com/in/daouda-camara-bf](https://www.linkedin.com/in/daouda-camara-bf)
+- LinkedIn : [linkedin.com/in/camara-daouda-bf](https://www.linkedin.com/in/camara-daouda-bf)
 - Email : [camara.daouda@outlook.fr](mailto:camara.daouda@outlook.fr)
